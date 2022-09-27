@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">IdVenda</Data></Cell>
+			<Cell><Data ss:Type="String">NomeCliente</Data></Cell>
+			<Cell><Data ss:Type="String">Email</Data></Cell>
+			<Cell><Data ss:Type="String">Telefone</Data></Cell>
+			<Cell><Data ss:Type="String">Cidade</Data></Cell>
+			<Cell><Data ss:Type="String">Estado</Data></Cell>
+			<Cell><Data ss:Type="String">CEP</Data></Cell>
+			<Cell><Data ss:Type="String">NumCC</Data></Cell>
+			<Cell><Data ss:Type="String">DataIda</Data></Cell>
+			<Cell><Data ss:Type="String">DataRet</Data></Cell>
+			<Cell><Data ss:Type="String">PromoOZ</Data></Cell>
+			<Cell><Data ss:Type="String">PromoNZ</Data></Cell>
+			<Cell><Data ss:Type="String">Perth</Data></Cell>
+			<Cell><Data ss:Type="String">GC</Data></Cell>
+			<Cell><Data ss:Type="String">Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">Queenstown</Data></Cell>
+			<Cell><Data ss:Type="String">DataCompra</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">231231231312</Data></Cell>
+			<Cell><Data ss:Type="String">25/09/2022</Data></Cell>
+			<Cell><Data ss:Type="String">25/10/2022</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">4300</Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-25</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">354354354354</Data></Cell>
+			<Cell><Data ss:Type="String">30/09/2022</Data></Cell>
+			<Cell><Data ss:Type="String">25/12/2022</Data></Cell>
+			<Cell><Data ss:Type="String">8850</Data></Cell>
+			<Cell><Data ss:Type="String">8450</Data></Cell>
+			<Cell><Data ss:Type="String">4500</Data></Cell>
+			<Cell><Data ss:Type="String">5500</Data></Cell>
+			<Cell><Data ss:Type="String">4300</Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">4321432143214321</Data></Cell>
+			<Cell><Data ss:Type="String">30012025</Data></Cell>
+			<Cell><Data ss:Type="String">22082030</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">4500</Data></Cell>
+			<Cell><Data ss:Type="String">5500</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">21332212</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">4500</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Renato Barbosa Cristiano Silva</Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22770233</Data></Cell>
+			<Cell><Data ss:Type="String">1234123412341234</Data></Cell>
+			<Cell><Data ss:Type="String">09/03/2023</Data></Cell>
+			<Cell><Data ss:Type="String">09/04/2034</Data></Cell>
+			<Cell><Data ss:Type="String">8850</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">4500</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">4300</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Ana Luisa Tavares</Data></Cell>
+			<Cell><Data ss:Type="String">analuisatavares@yahoo.com.br</Data></Cell>
+			<Cell><Data ss:Type="String">21992688532</Data></Cell>
+			<Cell><Data ss:Type="String">Rio de Janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">RJ</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">2312312312313243</Data></Cell>
+			<Cell><Data ss:Type="String">04/12/2023</Data></Cell>
+			<Cell><Data ss:Type="String">05/01/2024</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5500</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Joana Tavares</Data></Cell>
+			<Cell><Data ss:Type="String">jo@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">00000000</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">12312312321321121231</Data></Cell>
+			<Cell><Data ss:Type="String">03/10/2030</Data></Cell>
+			<Cell><Data ss:Type="String">03/10/2031</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5500</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Leticia Barbosa</Data></Cell>
+			<Cell><Data ss:Type="String">le@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">0000000</Data></Cell>
+			<Cell><Data ss:Type="String">Fortaleza</Data></Cell>
+			<Cell><Data ss:Type="String">CE</Data></Cell>
+			<Cell><Data ss:Type="String">2312312312</Data></Cell>
+			<Cell><Data ss:Type="String">23213132423424534354</Data></Cell>
+			<Cell><Data ss:Type="String">03/10/2030</Data></Cell>
+			<Cell><Data ss:Type="String">03/10/2031</Data></Cell>
+			<Cell><Data ss:Type="String">8850</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Renato Barbosa Cristiano Silva</Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">12345</Data></Cell>
+			<Cell><Data ss:Type="String">04/12/2023</Data></Cell>
+			<Cell><Data ss:Type="String">05/01/2024</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">RENATO BARBOSA CRISTIANO SILVA</Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">Rio de Janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">RJ</Data></Cell>
+			<Cell><Data ss:Type="String">20261004</Data></Cell>
+			<Cell><Data ss:Type="String">32342342342342</Data></Cell>
+			<Cell><Data ss:Type="String">09/03/2023</Data></Cell>
+			<Cell><Data ss:Type="String">09/04/2034</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Renato Barbosa Cristiano Silva</Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">21313123123</Data></Cell>
+			<Cell><Data ss:Type="String">30012025</Data></Cell>
+			<Cell><Data ss:Type="String">22082030</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Renato Barbosa Cristiano Silva</Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">2123123123123123</Data></Cell>
+			<Cell><Data ss:Type="String">03/10/2030</Data></Cell>
+			<Cell><Data ss:Type="String">03/10/2031</Data></Cell>
+			<Cell><Data ss:Type="String">8850</Data></Cell>
+			<Cell><Data ss:Type="String">8450</Data></Cell>
+			<Cell><Data ss:Type="String">4500</Data></Cell>
+			<Cell><Data ss:Type="String">5500</Data></Cell>
+			<Cell><Data ss:Type="String">4300</Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Renato Barbosa Cristiano Silva</Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">34234234234</Data></Cell>
+			<Cell><Data ss:Type="String">04/12/2023</Data></Cell>
+			<Cell><Data ss:Type="String">05/01/2024</Data></Cell>
+			<Cell><Data ss:Type="String">8850</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Renato Barbosa Cristiano Silva</Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">12121121212111222</Data></Cell>
+			<Cell><Data ss:Type="String">09/03/2023</Data></Cell>
+			<Cell><Data ss:Type="String">09/04/2034</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Renato Barbosa Cristiano Silva</Data></Cell>
+			<Cell><Data ss:Type="String">renatobcsilva@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">21969933948</Data></Cell>
+			<Cell><Data ss:Type="String">rio de janeiro</Data></Cell>
+			<Cell><Data ss:Type="String">rj</Data></Cell>
+			<Cell><Data ss:Type="String">22745270</Data></Cell>
+			<Cell><Data ss:Type="String">23123123123123123</Data></Cell>
+			<Cell><Data ss:Type="String">30012025</Data></Cell>
+			<Cell><Data ss:Type="String">22082030</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">5300</Data></Cell>
+			<Cell><Data ss:Type="String">2022-09-26</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

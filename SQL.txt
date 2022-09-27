@@ -1,0 +1,21 @@
+CREATE DATABASE renatour_db;
+USE renatour_db;
+CREATE TABLE Venda (
+    IdVenda INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    NomeCliente VARCHAR(100),
+    Email VARCHAR(100),
+    Telefone VARCHAR(20),
+    Cidade VARCHAR(100),
+    Estado CHAR(2),
+    CEP VARCHAR(20),
+    NumCC VARCHAR(50),
+    DataIda VARCHAR(10),
+    DataRet VARCHAR(10),
+    PromoOZ VARCHAR (10),
+    PromoNZ VARCHAR (10),
+    Perth VARCHAR (10),
+    CG VARCHAR (10),
+    Auckland VARCHAR (10),
+    Queenstown VARCHAR (10),
+    DataCompra DATE
+    );

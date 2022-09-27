@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Renatour</title>
+
+<!-- JS -->
+<script src="script.js"></script>
+
+<!-- CSS -->
+<link href="style.css" rel="stylesheet">
+
+<!-- Bootstrap -->
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+	rel="stylesheet"
+	integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+	crossorigin="anonymous">
+
+<!-- Google Fonts  -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+	href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap"
+	rel="stylesheet">
+</head>
+
+<body>
+
+
+
+	<!-- Main -->
+	<main class="background_login img-fluid justify-content-center mx-auto">
+
+		<form class="form position-absolute top-50 start-50 translate-middle"
+			id="form" action="Logar" method="post">
+			<fieldset>
+				<div class="mb-3 text-center">
+					<h4>Login para Administrador</h4>
+				</div>
+				<div class="row mb-3">
+					<div class="col-12 mb-3">
+						<label for="login" class="form-label">Login:</label> <input
+							type="text" class="form-control" id="login" name="login"
+							placeholder="Login ADM">
+					</div>
+
+					<div class="col-12 mb-3">
+						<label for="senha" class="form-label">Senha:</label> <input
+							type="password" class="form-control" id="senha" name="senha"
+							placeholder="Senha">
+					</div>
+				</div>
+				<div class="row mb-5">
+						<div class="col-lg-6 com-sm-12"
+							style=" text-align: center;">
+							<button type="submit"  class="btn btn-primary col-6"
+								id="login">Logar</button>
+						</div>
+						<div class="col-lg-6 col-sm-12"
+							style="text-align: center;">
+							<a href="index.html"><button type="button" id="senha" class="btn btn-danger col-6">Sair</button></a>
+						</div>
+					</div>
+			</fieldset>
+		</form>
+	</main>
+
+	<!-- Main End -->
+
+	<!-- Footer -->
+	<footer> </footer>
+	<!-- Footer End-->
+
+	<!-- JavaScript -->
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+		crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Renatour</title>
+
+<!-- JS -->
+<script src="script.js"></script>
+
+<!-- CSS -->
+<link href="style.css" rel="stylesheet">
+
+<!-- Bootstrap -->
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+	rel="stylesheet"
+	integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+	crossorigin="anonymous">
+
+<!-- Google Fonts  -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+	href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap"
+	rel="stylesheet">
+</head>
+
+<body style="min-height: calc(100vh - 130px);">
+
+	<!-- Navbar -->
+	<nav
+		class="navbar navbar-expand-lg bg-opacity-25 bg-light fixed-top p-1 d-block">
+		<div class="container-fluid">
+			<a class="navbar-brand" href="index.html"><img class="img-fluid"
+				src="Images/Logo.png" alt="Logo"></a>
+			<button class="navbar-toggler" type="button"
+				data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+				aria-controls="navbarSupportedContent" aria-expanded="false"
+				aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse justify-content-end me-3"
+				id="navbarSupportedContent">
+				<ul class="navbar-nav">
+					<li class="nav-item"><a class="btn btn-danger mx-1 my-1"
+						href="promo.html" role="button">Promoções</a></li>
+					<li class="navbar-item dropdown">
+						<button type="button"
+							class="btn btn-warning dropdown-toggle mx-1 my-1"
+							data-bs-toggle="dropdown">Destinos</button>
+						<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<li><a class="dropdown-item" href="oz.html">Austrália</a></li>
+							<li><a class="dropdown-item" href="nz.html">Nova
+									Zelândia</a></li>
+							<li>
+								<hr class="dropdown-divider">
+							</li>
+							<li><a class="dropdown-item"
+								href="https://www4.mundodosvistos.com.br/" target="_blank">Informações
+									sobre vistos</a></li>
+						</ul>
+					</li>
+					<li class="navbar-item"><a class="btn btn-success mx-1 my-1"
+						href="contato.html" role="button">Contato</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<!-- Navbar End -->
+
+	<!-- Main -->
+	<main class="background_contato img-fluid justify-content-center">
+		<section class="row w-75" style="margin-top: 230px;">
+			<form class="form">
+				<div class="row mb-3">
+					<div class="col-md-6 col-sm-12 mb-3">
+						<label for="formGroupExampleInput" class="form-label">Nome</label>
+						<input type="text" class="form-control" id="formGroupExampleInput"
+							placeholder="Primeiro nome" aria-label="First name">
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<label for="formGroupExampleInput2" class="form-label">Sobrenome</label>
+						<input type="text" class="form-control"
+							id="formGroupExampleInput2" placeholder="Último nome"
+							aria-label="Last name">
+					</div>
+				</div>
+				<div class="mb-3">
+					<label for="exampleFormControlInput1" class="form-label">Endereço
+						de Email</label> <input type="email" class="form-control"
+						id="exampleFormControlInput1" placeholder="nome@exemplo.com"
+						required>
+				</div>
+				<div class="mb-3">
+					<label for="exampleFormControlTextarea1" class="form-label">Mensagem</label>
+					<textarea class="form-control" id="exampleFormControlTextarea1"
+						placeholder="Digite aqui sua dúvida, elogio, reclamação ou apenas troque uma ideia com a gente :)"
+						rows="3"></textarea>
+				</div>
+				<div class="text-end mb-5">
+					<button type="button" onclick="mensagem()" class="btn btn-success">Enviar</button>
+				</div>
+			</form>
+		</section>
+	</main>
+	<!-- Main End -->
+
+	<!-- Footer -->
+	<footer
+		class="navbar bg-opacity-50 bg-dark text-bg-light container-fluid justify-content-center align-content-center fixed-bottom">
+		<p id="p_form_footer" class="mx-auto text-light">
+			© 2022 Renatour SyS v4.0 -<a href="login.html" class="link-info">
+				Login para Administrador</a>
+		</p>
+	</footer>
+	<!-- Footer End-->
+
+	<!-- JavaScript -->
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+		crossorigin="anonymous"></script>
+</body>
+
+</html>
